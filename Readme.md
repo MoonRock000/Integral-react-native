@@ -66,4 +66,11 @@ To get a local copy of this project up and running, follow these steps.
    ```
    expo start
    ```
+
+   If you still face any error while running you can try running with following command
+
+   ```
+   npx react-native start --reset-cache
+   ```
+
 # Integral-react-native

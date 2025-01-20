@@ -8,5 +8,6 @@ module.exports = {
                 path: '.env',
             },
         ],
+        '@babel/plugin-transform-private-methods',
     ],
 };
